@@ -1,4 +1,4 @@
-# [Vue.JS](https://vuejs.org/) reusable components library built with [Storybook](https://storybook.js.org/)
+## [Vue.JS](https://vuejs.org/) reusable components library built with [Storybook](https://storybook.js.org/)
 
 ## Project setup
 ```
