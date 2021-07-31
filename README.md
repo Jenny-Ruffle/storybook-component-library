@@ -5,14 +5,9 @@
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and build storybook
 ```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
+yarn storybook
 ```
 
 ### Lints and fixes files
