@@ -67,7 +67,7 @@ export default {
     display: grid;
 }
 
-@media(min-width: 768px){
+@media (min-width: 768px){
     .single-column--mobile {
         display: grid;
     }
