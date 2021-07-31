@@ -1,11 +1,11 @@
-# storybook-component-library
+# [Vue.JS](https://vuejs.org/) reusable components library built with [Storybook](https://storybook.js.org/)
 
 ## Project setup
 ```
 yarn install
 ```
 
-### Compiles and build storybook
+### Compile and build storybook
 ```
 yarn storybook
 ```
